@@ -3,5 +3,5 @@ if(name.length > 0) {
 	alert("Hello " + name + "!");
 }
 else {
-	alert("You didn't give me your name!");
+	alert("You didn't give me your name! Refresh and try again!");
 }
